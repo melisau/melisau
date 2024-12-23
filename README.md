@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Melisa!  
+## 👋 Hey there, I'm Melisa!  
 
-## 💻 Technologies I Use  
+# 💻 Technologies I Use  
 I love experimenting with new tools and building exciting projects. Here are some of the technologies I enjoy working with:  
 
 - **Java** ☕: My go-to language for backend development.  
