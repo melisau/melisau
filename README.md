@@ -29,7 +29,7 @@ I’m constantly learning and experimenting, with a current focus on **Svelte** 
 ---
 
 ## 📫 Connect with Me  
-Let’s collaborate or chat about technology, sustainability, or anything you’re passionate about:  
+Let’s collaborate or chat about technology, or anything you’re passionate about:  
 
 - 📧 Email: [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
 - 💼 LinkedIn: [Melisa Uyar](https://www.linkedin.com/in/melisa-uyar-78653a200/)  
