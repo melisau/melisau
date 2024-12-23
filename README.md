@@ -38,7 +38,6 @@ Let’s collaborate or chat about technology, or anything you’re passionate ab
 
 ## 🌿 Final Note  
 To me, great code is like a well-written story—structured, meaningful, and impactful. Let’s create something inspiring together. 🌟  
-![Quote](https://quotes-github-readme.vercel.app/api?quote=To%20reach%20tomorrow's%20dreams,%20each%20step%20today%20is%20a%20stone%20on%20the%20bridge%20to%20the%20future.&author=Unknown&type=horizontal&theme=dark)
 
 
 <!--
