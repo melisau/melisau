@@ -10,7 +10,8 @@ I work with a mix of tools and technologies to bring ideas to life:
 ### Languages & Frameworks  
 - **Java** ☕ | For robust backend systems  
 - **Python** 🐍 | For machine learning and data analysis  
-- **Spring Boot** 🌱 | To build scalable applications  
+- **Spring Boot** 🌱 | To build scalable applications
+- **C#** 💼 | For versatile application development  
 - **JavaScript** 🌟 | For interactive user experiences  
 - **Svelte** ⚡ | My latest exploration in UI frameworks  
 - **HTML & CSS** 🎨 | The foundation of web design  
@@ -20,9 +21,6 @@ I work with a mix of tools and technologies to bring ideas to life:
 
 ### Tools I Use  
 - **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
-- **Version Control**: Git  
-- **Task Management**: Trello  
-
 ---
 
 ## ✨ What Inspires Me  
