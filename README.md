@@ -1,43 +1,45 @@
-# 🌟 Welcome to My Code World!  
+# 🌸 Hello, I'm Melisa  
 
-Hi there, I'm **Melisa** 👋  
-A passionate developer exploring the endless possibilities of technology and crafting solutions for real-world challenges.  
+Welcome to my corner of the coding world. I’m a developer with a passion for creating elegant and functional solutions.  
 
 ---
 
-## ⚙️ My Tech Arsenal  
-Here’s what I use to bring ideas to life:  
+## 💻 My Technology Stack  
+I work with a mix of tools and technologies to bring ideas to life:  
 
 ### Languages & Frameworks  
-- **Java** ☕ | Backend brilliance  
-- **Python** 🐍 | Data-driven decisions  
-- **Spring Boot** 🌱 | Scalable systems  
-- **JavaScript** 🌟 | Dynamic experiences  
-- **Svelte** ⚡ | Sleek and lightweight UI  
-- **HTML & CSS** 🎨 | Web magic  
-- **Liquid** 💧 | Shopify customizations  
-- **SQL** 🗃️ | Seamless database handling  
-- **.NET** ⚙️ | Reliable applications  
+- **Java** ☕ | For robust backend systems  
+- **Python** 🐍 | For machine learning and data analysis  
+- **Spring Boot** 🌱 | To build scalable applications  
+- **JavaScript** 🌟 | For interactive user experiences  
+- **Svelte** ⚡ | My latest exploration in UI frameworks  
+- **HTML & CSS** 🎨 | The foundation of web design  
+- **Liquid** 💧 | For Shopify theme customization  
+- **SQL** 🗃️ | Efficient database management  
+- **.NET** ⚙️ | For building powerful applications  
 
-### Tools I Rely On  
+### Tools I Use  
 - **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
-
-
-## 🚀 What Drives Me  
-I'm driven by a love for learning and innovation. Currently diving into **Svelte** and building clean, functional user interfaces. My mission? To create impactful projects that combine creativity with functionality.  
+- **Version Control**: Git  
+- **Task Management**: Trello  
 
 ---
 
-## 🌐 Let’s Connect  
-I’d love to chat about tech, sustainability, or collaborate on a project!  
+## ✨ What Inspires Me  
+I’m constantly learning and experimenting, with a current focus on **Svelte** to craft clean and lightweight user interfaces. My approach to coding is rooted in simplicity and precision, aiming to deliver meaningful results.  
+
+---
+
+## 📫 Connect with Me  
+Let’s collaborate or chat about technology, sustainability, or anything you’re passionate about:  
 
 - 📧 Email: [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
 - 💼 LinkedIn: [Melisa Uyar](https://www.linkedin.com/in/melisa-uyar-78653a200/)  
 
 ---
 
-## 🎯 Fun Fact  
-I believe great code is like art—crafted with patience, creativity, and passion. Let’s build something amazing together! 🚀  
+## 🌿 Final Note  
+To me, great code is like a well-written story—structured, meaningful, and impactful. Let’s create something inspiring together. 🌟  
 
 <!--
 **melisau/melisau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
