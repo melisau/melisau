@@ -8,12 +8,24 @@ I love experimenting with new tools and building exciting projects. Here are som
 - **Spring Boot** 🌱: Enables me to create robust and scalable backend applications.  
 - **HTML** 🌐 & **CSS** 🎨: The core of my web development journey.  
 - **JavaScript** 🌟: To make websites dynamic and engaging.  
+- **Svelte** ⚡: Exploring this lightweight framework for building user interfaces.  
 - **Liquid** 💧: For customizing Shopify themes and e-commerce solutions.  
 - **SQL** 🗃️: Managing relational and NoSQL databases with ease.  
+- **.NET** ⚙️: Building powerful, scalable, and reliable applications.  
 
-By combining these technologies, I create innovative and functional solutions that make a difference!  
+## 🛠 Tools I Use  
+- **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
+- **Version Control**: Git   
+
+By combining these technologies and tools, I create innovative and functional solutions that make a difference!  
 
 ---
+
+## 📫 Connect with Me  
+Let’s collaborate or chat about coding, sustainability, or anything tech!  
+
+- **Email**: [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
+- **LinkedIn**: [Melisa Uyar](https://www.linkedin.com/in/melisa-uyar-78653a200/)  
 
 ## 📫 Connect with Me  
 Let’s collaborate or chat about coding, sustainability, or anything tech!  
