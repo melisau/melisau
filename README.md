@@ -1,4 +1,4 @@
-# 🌸 Hello, I'm Melisa  
+# 🌸 Hi there, I'm Melisa  
 
 Welcome to my corner of the coding world. I’m a developer with a passion for creating elegant and functional solutions.  
 
