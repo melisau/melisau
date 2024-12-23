@@ -38,6 +38,7 @@ Let’s collaborate or chat about technology, or anything you’re passionate ab
 
 ## 🌿 Final Note  
 To me, great code is like a well-written story—structured, meaningful, and impactful. Let’s create something inspiring together. 🌟  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
 **melisau/melisau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
