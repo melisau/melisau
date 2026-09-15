@@ -32,29 +32,15 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 <br/>
 <div align="center">
 
+<div align="center">
+
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4&text_color=ffffff" width="48%" alt="Melisa's GitHub Stats" />
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4&text_color=ffffff" width="48%" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=melisau&theme=flat&margin-w=15&row=1&column=6&no-bg=true&titles=ff69b4" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisau&theme=vue-dark&hide_border=false&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&currStreakNum=ff69b4&dates=ffffff" width="97%" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats-salesforce.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4&text_color=ffffff" width="48%" alt="Stats" />
-<img src="https://github-readme-stats-salesforce.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4&text_color=ffffff" width="48%" alt="Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/melisau?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Europe%2FIstanbul" width="97%" alt="Metrics" />
 
 </div>
 
