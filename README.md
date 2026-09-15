@@ -64,9 +64,10 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ### 🎵 Vibing While Coding
 
+
 <div align="center">
   <a href="https://open.spotify.com">
-    <img src="https://novathesky-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+    <img src="https://spotify-github-stream.vercel.app/api/spotify" alt="Spotify Currently Playing" />
   </a>
 </div>
 
@@ -80,7 +81,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 
 
-<div align="center">
+<div >
 
 
 
