@@ -34,8 +34,8 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats-fastapi.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4&text_color=ffffff" width="48%" alt="Melisa's GitHub Stats" />
-<img src="https://github-readme-stats-fastapi.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4&text_color=ffffff" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4&text_color=ffffff" width="48%" alt="Melisa's GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4&text_color=ffffff" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
