@@ -60,11 +60,4 @@ My personal portfolio built with TypeScript.
 
 [View Project](https://github.com/melisau/Portfolio)
 
----
----
 
-<div align="center">
-
-
-
-</div>
