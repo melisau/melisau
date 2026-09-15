@@ -57,3 +57,21 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 * 🇹🇷 **Turkish** `Native`
 * 🇬🇧 **English** `Professional Working Proficiency`
 * 🇩🇪 **German** `Elementary (Targeting B1)`
+
+
+
+#### 🌐 Languages
+
+![](https://img.shields.io/badge/Turkish-Native-red?style=flat-square&logo=google-translate)
+![](https://img.shields.io/badge/English-Professional_Working-blue?style=flat-square&logo=fluent)
+![](https://img.shields.io/badge/German-Elementary_(Targeting_B1)-gold?style=flat-square&logo=duolingo)
+
+#### 🌐 Languages
+
+| Language | Proficiency Level |
+| :--- | :--- |
+| 🇹🇷 **Turkish** | Native / Native Speaker |
+| 🇬🇧 **English** | Professional Working Proficiency |
+| 🇩🇪 **German** | Elementary *(Actively progressing toward B1)* |
+
+
