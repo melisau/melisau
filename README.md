@@ -32,7 +32,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ### 💼 Professional Experience
 
-**Junior Developer / Software Intern** — *BusinessUp (2024 – Present)*
+**Junior Developer / Software Intern** — *BusinessUp*
 * Developed custom Shopify theme components, dynamic sections, and interactive galleries using Liquid, JavaScript, HTML, and CSS.
 * Worked with themes including Dawn, Eurus, Wonder, Unseen, Broadcast, and Sleek.
 * Implemented metafield-driven content structures, improving mobile responsiveness, cross-device usability, and web accessibility.
