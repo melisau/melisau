@@ -65,8 +65,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University  with h
 | **Luma** | React, FastAPI, PostgreSQL, Railway | Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API. |
 | **Full-Stack Blog Platform** | FastAPI, MongoDB, React, Beanie | Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications. |
 
----
-<div > bu alanın tablo kenarlık rengini de pembe yapabilir miyiz
+
 
 ### 💼 Professional Experience
 
