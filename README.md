@@ -1,62 +1,46 @@
-# 🌟 Welcome to My Code World!  
+# Hi there, I'm Melisa Uyar 👋
+**Computer Engineer & Full-Stack / Backend Developer**
 
-Hi there, I'm **Melisa** 👋  
-A passionate developer exploring the endless possibilities of technology and crafting solutions for real-world challenges.  
+I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.34/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
----
-
-## ⚙️ My Tech Arsenal  
-Here’s what I use to bring ideas to life:  
-
-### Languages & Frameworks  
-- **Java** ☕ | Backend brilliance  
-- **Python** 🐍 | Data-driven decisions  
-- **Spring Boot** 🌱 | Scalable systems  
-- **JavaScript** 🌟 | Dynamic experiences  
-- **Svelte** ⚡ | Sleek and lightweight UI  
-- **HTML & CSS** 🎨 | Web magic  
-- **Liquid** 💧 | Shopify customizations  
-- **SQL** 🗃️ | Seamless database handling  
-- **.NET** ⚙️ | Reliable applications  
-
-### Tools I Rely On  
-- **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
-### 🛠️ Featured Projects
-
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| 💳 **Budget Buddy** | Next.js 16, Cloudflare Workers, Supabase, Ollama | Full-stack financial app with bilingual support, family finance roles, receipt uploads, and local AI assistant. |
-| 🔐 **Pin & Paper Journal** | React, Supabase Auth/RLS, Web Crypto API | Security-focused digital bullet journal featuring client-side AES-256-GCM encryption and zero-knowledge design. |
-| ⚡ **Blog Backend API** | Python, FastAPI, Beanie, MongoDB | Async RESTful API with JWT auth, user follow/notification system, category management, and dynamic feeds. |
-| ✉️ **Luma Frontend** | React SPA, Tailwind CSS | Digital event invitation system featuring guest interaction flows (RSVP, photos), dynamic forms, and admin dashboard. |
-
-## 🚀 What Drives Me  
-I'm driven by a love for learning and innovation. Currently diving into **Svelte** and building clean, functional user interfaces. My mission? To create impactful projects that combine creativity with functionality.  
+📍 **Based in:** Muğla, Türkiye  
+🇩🇪 **Relocation & Mobility:** Open to relocation to Germany *(Authorized to work without visa sponsorship)* & Remote roles  
+📧 **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com) | 💼 **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
 
 ---
 
-## 🌐 Let’s Connect  
-I’d love to chat about tech, sustainability, or collaborate on a project!  
+### ⚙️ Technical Toolkit
 
-- 📧 Email: [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
-- 💼 LinkedIn: [Melisa Uyar](https://www.linkedin.com/in/melisa-uyar-78653a200/)  
+* **Backend:** Python, FastAPI, Java, REST APIs, SQLAlchemy, JWT, Unit Testing
+* **Frontend:** JavaScript, TypeScript, React, Next.js, Svelte, HTML5, CSS3, Tailwind CSS, Accessibility
+* **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields (Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)
+* **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
+* **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
 
 ---
 
-## 🎯 Fun Fact  
-I believe great code is like art—crafted with patience, creativity, and passion. Let’s build something amazing together! 🚀  
+### 🛠️ Featured & Production Projects
 
-<!--
-**melisau/melisau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Status / Type | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **Atatürk Digital Archive** | 🟢 Production | Shopify, Liquid, JS, Metafields | A large-scale digital archive featuring multi-filter galleries, PDF viewing, light/dark mode, and interactive content sections. |
+| **Budget Buddy** | 🟡 In Development | Next.js, Supabase, PostgreSQL, Clerk, Tailwind | Personal and family finance tracker with RBAC, secure receipt uploads, CSV export, and AI-assisted financial explanations. |
+| **Pin & Paper Journal** | 🟡 In Development | React, Supabase, Web Crypto API, RLS | A Pinterest-inspired bullet journal utilizing client-side AES-256-GCM browser encryption and password wrapping keys. |
+| **Luma** | 🟡 In Development | React, FastAPI, PostgreSQL, Railway | Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API. |
+| **Full-Stack Blog Platform** | 🟢 Completed | FastAPI, MongoDB, React, Beanie | Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications. |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+
+**Junior Developer / Software Intern** — *BusinessUp (2024 – Present)*
+* Developed custom Shopify theme components, dynamic sections, and interactive galleries using Liquid, JavaScript, HTML, and CSS.
+* Worked with themes including Dawn, Eurus, Wonder, Unseen, Broadcast, and Sleek.
+* Implemented metafield-driven content structures, improving mobile responsiveness, cross-device usability, and web accessibility.
+
+---
+
+### 🎓 Education & Languages
+
+* **B.S. in Computer Engineering** — Manisa Celal Bayar University *(English-Taught, GPA: 3.34/4.00)*
+* **Languages:** Turkish (Native), English (Intermediate / Professional Working), German (Elementary, progressing toward B1)
