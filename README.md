@@ -3,8 +3,7 @@
 
 I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.34/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
-📍 **Based in:** Muğla, Türkiye  
-🇩🇪 **Relocation & Mobility:** Open to relocation to Germany *(Authorized to work without visa sponsorship)* & Remote roles  
+
 📧 **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com) | 💼 **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
 
 ---
