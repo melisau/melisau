@@ -1,63 +1,55 @@
+# 🌟 Welcome to My Code World!  
 
-
-# Hi, I'm Melisa! 🌸✨
-
-
-
-I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. 
-### Full stack developer
-
-Melisa Uyar is a skilled Computer Engineer based in Muğla, Turkey. She earned her degree in Computer Engineering from Manisa Celal Bayar Üniversitesi, establishing a strong foundational knowledge in software development, core engineering principles, and technology systems. Originally born in Pinneberg, Germany, Melisa brings a multicultural perspective to her technical pursuits. Known for her continuous learning mindset, she actively tracks industry trends and connects with the global tech community to collaborate on innovative software solutions.
-
-## Contact Me
-<p><a href="www.linkedin.com/in/melisa-uyar-78653a200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="mong" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="shopify" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&nbsp;
-</p>
-
-## Projects
-
-### Luma
-
-A full-stack project with separate frontend and backend repositories.
-
-[View Project](https://github.com/melisau/luma-frontend)
+Hi there, I'm **Melisa** 👋  
+A passionate developer exploring the endless possibilities of technology and crafting solutions for real-world challenges.  
 
 ---
 
-### Pin paper journal
+## ⚙️ My Tech Arsenal  
+Here’s what I use to bring ideas to life:  
 
-A TypeScript-based journaling project.
+### Languages & Frameworks  
+- **Java** ☕ | Backend brilliance  
+- **Python** 🐍 | Data-driven decisions  
+- **Spring Boot** 🌱 | Scalable systems  
+- **JavaScript** 🌟 | Dynamic experiences  
+- **Svelte** ⚡ | Sleek and lightweight UI  
+- **HTML & CSS** 🎨 | Web magic  
+- **Liquid** 💧 | Shopify customizations  
+- **SQL** 🗃️ | Seamless database handling  
+- **.NET** ⚙️ | Reliable applications  
 
-[View Project](https://github.com/melisau/pin-paper-journal)
+### Tools I Rely On  
+- **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
+
+
+## 🚀 What Drives Me  
+I'm driven by a love for learning and innovation. Currently diving into **Svelte** and building clean, functional user interfaces. My mission? To create impactful projects that combine creativity with functionality.  
 
 ---
 
-### Fit Blog Project
+## 🌐 Let’s Connect  
+I’d love to chat about tech, sustainability, or collaborate on a project!  
 
-A web application with a JavaScript frontend and Python backend
-
-[View Project](https://github.com/melisau/blog-frontend)
+- 📧 Email: [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
+- 💼 LinkedIn: [Melisa Uyar](https://www.linkedin.com/in/melisa-uyar-78653a200/)  
 
 ---
 
-### Portfolio
+## 🎯 Fun Fact  
+I believe great code is like art—crafted with patience, creativity, and passion. Let’s build something amazing together! 🚀  
 
-My personal portfolio built with TypeScript.
+<!--
+**melisau/melisau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[View Project](https://github.com/melisau/Portfolio)
+Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
