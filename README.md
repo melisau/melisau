@@ -19,7 +19,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ### 🚀 Technical Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,shopify,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma,vercel,railway,graphql,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma,vercel,graphql,docker&perline=10)](https://skillicons.dev)
 
 </div>
 
