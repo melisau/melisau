@@ -15,9 +15,11 @@
 I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.5/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
 
+<div align="center">
+
 ### 🚀 Technical Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,shopify,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma,vercel,railway,graphql,docker&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -28,11 +30,8 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 * **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
-
-<br/>
 <div align="center">
 
-<div align="center">
 
 ### 📊 GitHub Analytics
 
