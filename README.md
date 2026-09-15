@@ -1,11 +1,10 @@
 <div align="center">
 
+# Hi, I'm Melisa! 🌸✨
 
-# Hi, I'm Melisa 🌸
+### Full-Stack Developer · Creative mind · Professional bug whisperer 🪄
 
-### Full-Stack Developer · Building thoughtful products for the web
-
-I enjoy turning ideas into clean, practical, and user-friendly applications — from intuitive interfaces to reliable backend systems.
+I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. 💗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-uyar-78653a200/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melisauyar5225@gmail.com)
@@ -14,10 +13,10 @@ I enjoy turning ideas into clean, practical, and user-friendly applications — 
 
 ## About Me
 
-- 💻 I build full-stack web applications and APIs.
-- 🧩 I care about simple architecture, readable code, and thoughtful user experiences.
-- 🌱 I’m always learning through hands-on projects and experimentation.
-- 🤝 I’m open to collaborating on meaningful software projects.
+- 🎀 Building full-stack web applications and APIs with care.
+- 🫧 Obsessed with clean code, thoughtful details, and delightful user experiences.
+- 🌷 Always learning, experimenting, and turning curiosity into projects.
+- 💌 Open to creative collaborations and meaningful software ideas.
 
 ## Tech Stack
 
@@ -45,33 +44,41 @@ I enjoy turning ideas into clean, practical, and user-friendly applications — 
 - **[Blog](https://github.com/melisau/blog-frontend)** — A web application with a JavaScript frontend and [Python backend](https://github.com/melisau/blog-backend).
 - **[Portfolio](https://github.com/melisau/Portfolio)** — My personal portfolio built with TypeScript.
 
-## How I Build
+## From Sparkle to Software ✨
 
 ```mermaid
 flowchart LR
-    A[💡 Idea] --> B[🎨 Experience]
-    B --> C[⚡ Frontend]
-    C --> D[🔗 API]
-    D --> E[🧠 Backend]
-    E --> F[🚀 Product]
+    A["🌟 Bright Idea"] --> B["🎨 Dream & Design"]
+    B --> C["💖 Craft the Frontend"]
+    C --> D["🔗 Sprinkle in APIs"]
+    D --> E["🧠 Build the Backend"]
+    E --> F["🎉 Ship Something Lovely"]
 
-    C -. TypeScript · JavaScript .-> C
-    E -. Python · Java · .NET .-> E
+    TS["🦋 TypeScript + JavaScript"] -.-> C
+    BE["🌸 Python + Java + .NET"] -.-> E
+
+    classDef sparkle fill:#fff0f6,stroke:#e64980,color:#7a2148,stroke-width:2px
+    classDef lilac fill:#f3f0ff,stroke:#9775fa,color:#4c3198,stroke-width:2px
+    classDef sunshine fill:#fff9db,stroke:#f59f00,color:#7d5100,stroke-width:2px
+
+    class A,C,TS sparkle
+    class B,D,BE lilac
+    class E,F sunshine
 ```
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎯 Product-minded</h3>
-      <p>I start with the problem and shape the technology around a clear, useful experience.</p>
+      <h3>💡 Dream it</h3>
+      <p>Every lovely product begins with curiosity, imagination, and a problem worth solving.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🧼 Clean by design</h3>
-      <p>I value readable code, focused interfaces, and systems that are easy to understand.</p>
+      <h3>🎀 Make it shine</h3>
+      <p>Clean code underneath, thoughtful details on top, and a little personality everywhere.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🌱 Always evolving</h3>
-      <p>Every project is a space to explore, learn, refine, and build something better.</p>
+      <h3>🚀 Send it!</h3>
+      <p>Learn, improve, ship, celebrate — then come back with an even brighter idea.</p>
     </td>
   </tr>
 </table>
@@ -80,6 +87,6 @@ flowchart LR
 
 <div align="center">
 
-**Good software should feel simple — even when the work behind it isn’t.**
+🌷 **Soft colors, bold ideas, beautifully built.** 🌷
 
 </div>
