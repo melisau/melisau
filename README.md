@@ -4,25 +4,13 @@
 I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.34/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
 
-📧 **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com) | 💼 **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
-
-### 📬 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-melisauyar5225%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melisauyar5225@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melisa_Uyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melisauyar)
 
 ### 📬 Let's Connect!
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
 
-### 🌐 Connect & Reach Me
 
-| Platform | Contact Point | Action |
-| :--- | :--- | :--- |
-| 📧 **Email** | `melisauyar5225@gmail.com` | [Send Email](mailto:melisauyar5225@gmail.com) |
-| 💼 **LinkedIn** | `linkedin.com/in/melisauyar` | [Visit Profile](https://linkedin.com/in/melisauyar) |
----
 
 ### ⚙️ Technical Toolkit
 
