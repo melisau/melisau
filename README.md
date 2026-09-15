@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:ff69b4&height=200&section=header&text=Melisa%20Uyar&fontSize=48&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&animation=twinkling" width="100%" alt="Melisa Uyar Banner" />
-</div>
 
-<div align="center">
+
 
 
 Hi there. I’m a Computer Engineering graduate from Manisa Celal Bayar University  with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
