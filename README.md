@@ -12,7 +12,7 @@
 # Hi there, I'm Melisa Uyar 👋
 **Computer Engineer & Full-Stack Developer**
 
-I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.5/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
+I’m a Computer Engineering graduate from Manisa Celal Bayar University  with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
 
 <div align="center">
