@@ -30,7 +30,6 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
 
 <br/>
-
 <div align="center">
 
 ### 📊 GitHub Analytics
