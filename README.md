@@ -1,20 +1,22 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Melisa%20Uyar&fontSize=50&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=70)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=melisau&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
 # Hi there, I'm Melisa Uyar 👋
-**Computer Engineer & Full-Stack / Backend Developer**
+**Computer Engineer & Full-Stack Developer**
 
 I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3.5/4.00) with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
 
-
-### 📬 Let's Connect!
-
-![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
-
-
-
-<div align="center">
-
-### 🚀 Technical Toolkit
+### 🚀 Technical Arsenal
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma&perline=10)](https://skillicons.dev)
 
@@ -27,7 +29,61 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 * **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
----
+
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisau&theme=vue-dark&hide_border=false&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&currStreakNum=ff69b4" width="97%" />
+</div>
+
+<br/>
+
+#### 🎓 Education
+![](https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-blue?style=for-the-badge&logo=academic-cap)
+
+![](https://img.shields.io/badge/University-Manisa_Celal_Bayar_University-003366?style=for-the-badge)
+
+![](https://img.shields.io/badge/Language-English--Taught-informational?style=for-the-badge)
+
+![](https://img.shields.io/badge/GPA-3.5_%2F_4.00-success?style=for-the-badge&logo=google-academic)
+
+<br/>
+
+#### 🗣️ Language Skills
+
+
+* 🇹🇷 **Turkish** `Native`
+* 🇬🇧 **English** `Professional Working Proficiency`
+* 🇩🇪 **German** `Elementary (Targeting B1)`
+* 
+
+
+### 🎵 Vibing While Coding
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://novathesky-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  </a>
+</div>
+
+
+
+
+### 📬 Let's Connect!
+
+![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
+
+
+
+<div align="center">
+
+
 
 ### 🛠️ Featured Projects
 
@@ -51,23 +107,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 ---
 
 
-#### 🎓 Education
-![](https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-blue?style=for-the-badge&logo=academic-cap)
 
-![](https://img.shields.io/badge/University-Manisa_Celal_Bayar_University-003366?style=for-the-badge)
-
-![](https://img.shields.io/badge/Language-English--Taught-informational?style=for-the-badge)
-
-![](https://img.shields.io/badge/GPA-3.5_%2F_4.00-success?style=for-the-badge&logo=google-academic)
-
-<br/>
-
-#### 🗣️ Language Skills
-
-
-* 🇹🇷 **Turkish** `Native`
-* 🇬🇧 **English** `Professional Working Proficiency`
-* 🇩🇪 **German** `Elementary (Targeting B1)`
 
 
 
