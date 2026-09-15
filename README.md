@@ -36,9 +36,8 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-profile-trophy.vercel.app/?username=melisau&theme=flat&margin-w=15&row=1&column=6&no-bg=true&titles=ff69b4" width="100%" alt="GitHub Trophies" />
 
-<br/><br/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisau&theme=vue-dark&hide_border=false&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&currStreakNum=ff69b4&dates=ffffff" width="97%" alt="GitHub Streak" />
 
