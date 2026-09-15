@@ -73,14 +73,31 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 Developed custom Shopify theme components, dynamic sections, and interactive galleries using Liquid, JavaScript, HTML, and CSS. Worked with themes including Dawn, Eurus, Wonder, Unseen, Broadcast, and Sleek. Implemented metafield-driven content structures, improving mobile responsiveness, cross-device usability, and web accessibility.
 
 ---
+### 🗣️ Language Skills
 
-#### 🗣️ Language Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Turkish-Native-ff69b4?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish" />
+  <img src="https://img.shields.io/badge/English-Professional_Working-ff69b4?style=for-the-badge&logo=grammarly&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/German-A2_--_Targeting_B1-ff69b4?style=for-the-badge&logo=duolingo&logoColor=white" alt="German" />
+</p>
 
+### 🗣️ Language Skills
 
-🇹🇷 **Turkish** `Native`
-🇬🇧 **English** `Professional Working Proficiency`
- 🇩🇪 **German** `Elementary (Targeting B1)`
+| Language | Proficiency Level | Status |
+| :--- | :--- | :--- |
+| 🇹🇷 **Turkish** | `Native` | Mother Tongue |
+| 🇬🇧 **English** | `Professional Working` | Full Professional |
+| 🇩🇪 **German** | `Elementary` | Targeting B1 |
+### 🗣️ Language Skills
 
+* **Turkish** `Native`
+  ![](https://geps.dev/progress/100?dangerColor=ff69b4&warningColor=ff69b4&successColor=ff69b4)
+
+* **English** `Professional Working`
+  ![](https://geps.dev/progress/85?dangerColor=ff69b4&warningColor=ff69b4&successColor=ff69b4)
+
+* **German** `Elementary (Targeting B1)`
+  ![](https://geps.dev/progress/35?dangerColor=ff69b4&warningColor=ff69b4&successColor=ff69b4)
 
 
 ### 📬 Let's Connect!
