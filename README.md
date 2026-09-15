@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi, I'm Melisa! 🌸✨
 
@@ -61,22 +61,6 @@ My personal portfolio built with TypeScript.
 [View Project](https://github.com/melisau/Portfolio)
 
 ---
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=melisau&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melisau&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/melisau/count.svg?" alt="visitors count" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=melisau&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
-
-
 ---
 
 <div align="center">
