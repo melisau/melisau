@@ -43,6 +43,22 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 </div>
 
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats-salesforce.vercel.app/api?username=melisau&show_icons=true&theme=vue-dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&ring_color=ff69b4&text_color=ffffff" width="48%" alt="Stats" />
+<img src="https://github-readme-stats-salesforce.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=vue-dark&hide_border=false&title_color=ff69b4&text_color=ffffff" width="48%" alt="Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/melisau?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Europe%2FIstanbul" width="97%" alt="Metrics" />
+
+</div>
+
+
 
 #### 🎓 Education
 ![](https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-blue?style=for-the-badge&logo=academic-cap)
