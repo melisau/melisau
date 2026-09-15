@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Melisa%20Uyar&fontSize=50&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=70)
+
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=melisau&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
