@@ -75,7 +75,7 @@ Developed custom Shopify theme components, dynamic sections, and interactive gal
 ---
 ### 🗣️ Language Skills
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Turkish-Native-ff69b4?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish" />
   <img src="https://img.shields.io/badge/English-Professional_Working-ff69b4?style=for-the-badge&logo=grammarly&logoColor=white" alt="English" />
   <img src="https://img.shields.io/badge/German-A2_--_Targeting_B1-ff69b4?style=for-the-badge&logo=duolingo&logoColor=white" alt="German" />
