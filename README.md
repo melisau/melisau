@@ -2,7 +2,7 @@
 
 # Hi, I'm Melisa! 🌸✨
 
-### Full-Stack Developer · Creative mind · Professional bug whisperer 🪄
+
 
 I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. 💗
 
@@ -44,20 +44,14 @@ I turn bright ideas into lovely, useful digital experiences — from playful int
 - **[Blog](https://github.com/melisau/blog-frontend)** — A web application with a JavaScript frontend and [Python backend](https://github.com/melisau/blog-backend).
 - **[Portfolio](https://github.com/melisau/Portfolio)** — My personal portfolio built with TypeScript.
 
-## My Development Landscape 🌸
-
-<div align="center">
-
-![Melisa's development landscape](./assets/dev-landscape.svg)
 
 </div>
 
-<sub>Based on the primary languages of my most recently updated repositories.</sub>
 
 ---
 
 <div align="center">
 
-🌷 **Soft colors, bold ideas, beautifully built.** 🌷
+
 
 </div>
