@@ -43,12 +43,14 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 </div>
 
+### 🎓 Education
 
-
-#### 🎓 Education
-![](https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-blue?style=for-the-badge&logo=academic-cap) ![](https://img.shields.io/badge/University-Manisa_Celal_Bayar_University-003366?style=for-the-badge) ![](https://img.shields.io/badge/Language-English--Taught-informational?style=for-the-badge) ![](https://img.shields.io/badge/GPA-3.5_%2F_4.00-success?style=for-the-badge&logo=google-academic)
-
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-2ecc71?style=for-the-badge&logo=academic-cap&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/University-Manisa_Celal_Bayar_University-2ecc71?style=for-the-badge" alt="University" />
+  <img src="https://img.shields.io/badge/Language-English--Taught-2ecc71?style=for-the-badge" alt="Language" />
+  <img src="https://img.shields.io/badge/GPA-3.5_%2F_4.00-2ecc71?style=for-the-badge&logo=google-academic&logoColor=white" alt="GPA" />
+</p>
 
 
 <div align="center">
