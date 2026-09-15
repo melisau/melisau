@@ -44,15 +44,36 @@ I enjoy turning ideas into clean, practical, and user-friendly applications — 
 - **[Blog](https://github.com/melisau/blog-frontend)** — A web application with a JavaScript frontend and [Python backend](https://github.com/melisau/blog-backend).
 - **[Portfolio](https://github.com/melisau/Portfolio)** — My personal portfolio built with TypeScript.
 
-## GitHub Activity
+## How I Build
 
-<div align="center">
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 Experience]
+    B --> C[⚡ Frontend]
+    C --> D[🔗 API]
+    D --> E[🧠 Backend]
+    E --> F[🚀 Product]
 
-![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisau&show_icons=true&hide_border=true&theme=transparent)
+    C -. TypeScript · JavaScript .-> C
+    E -. Python · Java · .NET .-> E
+```
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melisau&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Product-minded</h3>
+      <p>I start with the problem and shape the technology around a clear, useful experience.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧼 Clean by design</h3>
+      <p>I value readable code, focused interfaces, and systems that are easy to understand.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌱 Always evolving</h3>
+      <p>Every project is a space to explore, learn, refine, and build something better.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
