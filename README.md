@@ -53,13 +53,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 #### 🗣️ Language Skills
 
-* 🇹🇷 **Turkish** — `Native / Ana Dil`  
-  `[██████████]`
 
-* 🇬🇧 **English** — `Professional Working Proficiency`  
-  `[████████░░]`
-
-* 🇩🇪 **German** — `Elementary (Targeting B1)`  
-  `[████░░░░░░]`
-
-</div>
+* 🇹🇷 **Turkish** `Native`
+* 🇬🇧 **English** `Professional Working Proficiency`
+* 🇩🇪 **German** `Elementary (Targeting B1)`
