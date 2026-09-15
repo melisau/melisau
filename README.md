@@ -80,7 +80,7 @@ Developed custom Shopify theme components, dynamic sections, and interactive gal
 ### 📬 Let's Connect!
 
 **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
-**LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
+**LinkedIn:** [Melisa Uyar](www.linkedin.com/in/melisa-uyar-78653a200)
 
 
 
