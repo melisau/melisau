@@ -51,19 +51,48 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 <br/>
 
 
+<div align="center">
+
 ### 🛠️ Featured Projects
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Atatürk Digital Archive** | Shopify, Liquid, JS, Metafields | A large-scale digital archive featuring multi-filter galleries, PDF viewing, light/dark mode, and interactive content sections. |
-| **Budget Buddy** | Next.js, Supabase, PostgreSQL, Clerk, Tailwind | Personal and family finance tracker with RBAC, secure receipt uploads, CSV export, and AI-assisted financial explanations. |
-| **Pin & Paper Journal** | React, Supabase, Web Crypto API, RLS | A Pinterest-inspired bullet journal utilizing client-side AES-256-GCM browser encryption and password wrapping keys. |
-| **Luma** | React, FastAPI, PostgreSQL, Railway | Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API. |
-| **Full-Stack Blog Platform** | FastAPI, MongoDB, React, Beanie | Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications. |
+</div>
 
----
-<div >
-
+<table border="1" style="border: 2px solid #ff69b4; border-collapse: collapse;">
+  <thead>
+    <tr style="border-bottom: 2px solid #ff69b4;">
+      <th align="left" style="color: #ff69b4;">Project</th>
+      <th align="left" style="color: #ff69b4;">Tech Stack</th>
+      <th align="left" style="color: #ff69b4;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ff69b4;">
+      <td><b>Atatürk Digital Archive</b></td>
+      <td><code>Shopify</code> <code>Liquid</code> <code>JS</code> <code>Metafields</code></td>
+      <td>A large-scale digital archive featuring multi-filter galleries, PDF viewing, light/dark mode, and interactive content sections.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ff69b4;">
+      <td><b>Budget Buddy</b></td>
+      <td><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Clerk</code> <code>Tailwind</code></td>
+      <td>Personal and family finance tracker with RBAC, secure receipt uploads, CSV export, and AI-assisted financial explanations.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ff69b4;">
+      <td><b>Pin & Paper Journal</b></td>
+      <td><code>React</code> <code>Supabase</code> <code>Web Crypto API</code> <code>RLS</code></td>
+      <td>A Pinterest-inspired bullet journal utilizing client-side AES-256-GCM browser encryption and password wrapping keys.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ff69b4;">
+      <td><b>Luma</b></td>
+      <td><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Railway</code></td>
+      <td>Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API.</td>
+    </tr>
+    <tr>
+      <td><b>Full-Stack Blog Platform</b></td>
+      <td><code>FastAPI</code> <code>MongoDB</code> <code>React</code> <code>Beanie</code></td>
+      <td>Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications.</td>
+    </tr>
+  </tbody>
+</table>
 ### 💼 Professional Experience
 
 **Junior Developer / Software Intern** — *BusinessUp*
