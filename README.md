@@ -17,13 +17,13 @@ Hi there. I’m a Computer Engineering graduate from Manisa Celal Bayar Universi
 </div>
 
 <br/>
-<div align="left">
+
 * **Backend:** Python, FastAPI, Java, REST APIs, SQLAlchemy, JWT, Unit Testing
 * **Frontend:** JavaScript, TypeScript, React, Next.js, Svelte, HTML5, CSS3, Tailwind CSS, Accessibility
 * **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
- </div>
+
 <div align="center">
 
 
