@@ -4,48 +4,77 @@
 
 
 
-I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. 💗
+I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. # Hi 👋, I'm Melisa Uyar
+### Full stack developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-uyar-78653a200/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melisauyar5225@gmail.com)
+Melisa Uyar is a skilled Computer Engineer based in Muğla, Turkey. She earned her degree in Computer Engineering from Manisa Celal Bayar Üniversitesi, establishing a strong foundational knowledge in software development, core engineering principles, and technology systems. Originally born in Pinneberg, Germany, Melisa brings a multicultural perspective to her technical pursuits. Known for her continuous learning mindset, she actively tracks industry trends and connects with the global tech community to collaborate on innovative software solutions.
 
-</div>
+## Contact Me
+<p><a href="www.linkedin.com/in/melisa-uyar-78653a200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-## About Me
+## Skills
 
-- 🎀 Building full-stack web applications and APIs with care.
-- 🫧 Obsessed with clean code, thoughtful details, and delightful user experiences.
-- 🌷 Always learning, experimenting, and turning curiosity into projects.
-- 💌 Open to creative collaborations and meaningful software ideas.
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="mong" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="shopify" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&nbsp;
+</p>
 
-## Tech Stack
+## Projects
 
-### Currently working with
+### Luma
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+A full-stack project with separate frontend and backend repositories.
 
-### Also experienced with
+[View Project](https://github.com/melisau/luma-frontend)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-## Selected Projects
+### Pin paper journal
 
-- **[Luma](https://github.com/melisau/luma-frontend)** — A full-stack project with separate [frontend](https://github.com/melisau/luma-frontend) and [backend](https://github.com/melisau/luma-backend) repositories.
-- **[Pin Paper Journal](https://github.com/melisau/pin-paper-journal)** — A TypeScript-based journaling project.
-- **[Blog](https://github.com/melisau/blog-frontend)** — A web application with a JavaScript frontend and [Python backend](https://github.com/melisau/blog-backend).
-- **[Portfolio](https://github.com/melisau/Portfolio)** — My personal portfolio built with TypeScript.
+A TypeScript-based journaling project.
 
+[View Project](https://github.com/melisau/pin-paper-journal)
 
-</div>
+---
+
+### Fit Blog Project
+
+A web application with a JavaScript frontend and Python backend
+
+[View Project](https://github.com/melisau/blog-frontend)
+
+---
+
+### Portfolio
+
+My personal portfolio built with TypeScript.
+
+[View Project](https://github.com/melisau/Portfolio)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=melisau&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisau&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melisau&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/melisau/count.svg?" alt="visitors count" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melisau&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
 
 
 ---
