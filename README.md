@@ -21,7 +21,14 @@ Here’s what I use to bring ideas to life:
 
 ### Tools I Rely On  
 - **IDEs**: PyCharm, Visual Studio Code, Visual Studio, IntelliJ IDEA  
+### 🛠️ Featured Projects
 
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| 💳 **Budget Buddy** | Next.js 16, Cloudflare Workers, Supabase, Ollama | Full-stack financial app with bilingual support, family finance roles, receipt uploads, and local AI assistant. |
+| 🔐 **Pin & Paper Journal** | React, Supabase Auth/RLS, Web Crypto API | Security-focused digital bullet journal featuring client-side AES-256-GCM encryption and zero-knowledge design. |
+| ⚡ **Blog Backend API** | Python, FastAPI, Beanie, MongoDB | Async RESTful API with JWT auth, user follow/notification system, category management, and dynamic feeds. |
+| ✉️ **Luma Frontend** | React SPA, Tailwind CSS | Digital event invitation system featuring guest interaction flows (RSVP, photos), dynamic forms, and admin dashboard. |
 
 ## 🚀 What Drives Me  
 I'm driven by a love for learning and innovation. Currently diving into **Svelte** and building clean, functional user interfaces. My mission? To create impactful projects that combine creativity with functionality.  
