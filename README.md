@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:ff69b4&height=200&section=header&text=Melisa%20Uyar&fontSize=48&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&animation=twinkling" width="100%" alt="Melisa Uyar Banner" />
 
-
-
-
 Hi there. I’m a Computer Engineering graduate from Manisa Celal Bayar University  with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
-
 
 <div align="center">
 
@@ -17,11 +13,13 @@ Hi there. I’m a Computer Engineering graduate from Manisa Celal Bayar Universi
 
 <br/>
 
+<div align="left">
 * **Backend:** Python, FastAPI, Java, REST APIs, SQLAlchemy, JWT, Unit Testing
 * **Frontend:** JavaScript, TypeScript, React, Next.js, Svelte, HTML5, CSS3, Tailwind CSS, Accessibility
 * **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
+</div>
 
 <div align="center">
 
