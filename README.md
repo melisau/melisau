@@ -53,22 +53,18 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 <div align="center">
 
-> ### 🛠️ Featured Projects
-> 
-> * **Atatürk Digital Archive** — `Shopify` `Liquid` `JS` `Metafields`  
->   A large-scale digital archive featuring multi-filter galleries, PDF viewing, light/dark mode, and interactive content sections.
-> 
-> * **Budget Buddy** — `Next.js` `Supabase` `PostgreSQL` `Clerk` `Tailwind`  
->   Personal and family finance tracker with RBAC, secure receipt uploads, CSV export, and AI-assisted financial explanations.
-> 
-> * **Pin & Paper Journal** — `React` `Supabase` `Web Crypto API` `RLS`  
->   A Pinterest-inspired bullet journal utilizing client-side AES-256-GCM browser encryption and password wrapping keys.
-> 
-> * **Luma** — `React` `FastAPI` `PostgreSQL` `Railway`  
->   Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API.
-> 
-> * **Full-Stack Blog Platform** — `FastAPI` `MongoDB` `React` `Beanie`  
->   Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications.
+### 🛠️ Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Atatürk Digital Archive** | Shopify, Liquid, JS, Metafields | A large-scale digital archive featuring multi-filter galleries, PDF viewing, light/dark mode, and interactive content sections. |
+| **Budget Buddy** | Next.js, Supabase, PostgreSQL, Clerk, Tailwind | Personal and family finance tracker with RBAC, secure receipt uploads, CSV export, and AI-assisted financial explanations. |
+| **Pin & Paper Journal** | React, Supabase, Web Crypto API, RLS | A Pinterest-inspired bullet journal utilizing client-side AES-256-GCM browser encryption and password wrapping keys. |
+| **Luma** | React, FastAPI, PostgreSQL, Railway | Digital invitation platform with guest RSVP, shared event photo galleries, and an isolated administrative dashboard API. |
+| **Full-Stack Blog Platform** | FastAPI, MongoDB, React, Beanie | Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications. |
+
+---
+<div > bu alanın tablo kenarlık rengini de pembe yapabilir miyiz
 
 ### 💼 Professional Experience
 
