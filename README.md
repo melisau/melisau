@@ -44,44 +44,15 @@ I turn bright ideas into lovely, useful digital experiences — from playful int
 - **[Blog](https://github.com/melisau/blog-frontend)** — A web application with a JavaScript frontend and [Python backend](https://github.com/melisau/blog-backend).
 - **[Portfolio](https://github.com/melisau/Portfolio)** — My personal portfolio built with TypeScript.
 
-## From Sparkle to Software ✨
+## My Development Landscape 🌸
 
-```mermaid
-flowchart LR
-    A["🌟 Bright Idea"] --> B["🎨 Dream & Design"]
-    B --> C["💖 Craft the Frontend"]
-    C --> D["🔗 Sprinkle in APIs"]
-    D --> E["🧠 Build the Backend"]
-    E --> F["🎉 Ship Something Lovely"]
+<div align="center">
 
-    TS["🦋 TypeScript + JavaScript"] -.-> C
-    BE["🌸 Python + Java + .NET"] -.-> E
+![Melisa's development landscape](./assets/dev-landscape.svg)
 
-    classDef sparkle fill:#fff0f6,stroke:#e64980,color:#7a2148,stroke-width:2px
-    classDef lilac fill:#f3f0ff,stroke:#9775fa,color:#4c3198,stroke-width:2px
-    classDef sunshine fill:#fff9db,stroke:#f59f00,color:#7d5100,stroke-width:2px
+</div>
 
-    class A,C,TS sparkle
-    class B,D,BE lilac
-    class E,F sunshine
-```
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💡 Dream it</h3>
-      <p>Every lovely product begins with curiosity, imagination, and a problem worth solving.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎀 Make it shine</h3>
-      <p>Clean code underneath, thoughtful details on top, and a little personality everywhere.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 Send it!</h3>
-      <p>Learn, improve, ship, celebrate — then come back with an even brighter idea.</p>
-    </td>
-  </tr>
-</table>
+<sub>Based on the primary languages of my most recently updated repositories.</sub>
 
 ---
 
