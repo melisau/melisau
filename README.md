@@ -12,14 +12,21 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 
 
-### ⚙️ Technical Toolkit
+<div align="center">
+
+### 🚀 Technical Toolkit
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js,ts,react,nextjs,svelte,html,css,tailwind,postgres,mongodb,supabase,firebase,git,github,vscode,postman,figma&perline=10)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 * **Backend:** Python, FastAPI, Java, REST APIs, SQLAlchemy, JWT, Unit Testing
 * **Frontend:** JavaScript, TypeScript, React, Next.js, Svelte, HTML5, CSS3, Tailwind CSS, Accessibility
-* **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields (Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)
+* **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
-
 ---
 
 ### 🛠️ Featured Projects
