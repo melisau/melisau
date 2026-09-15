@@ -5,12 +5,6 @@
 <div align="center">
 
 
-</div>
-
-<br/>
-
-<div >
-
 Hi there. I’m a Computer Engineering graduate from Manisa Celal Bayar University  with hands-on production experience in e-commerce, full-stack applications, and backend systems. Having developed production platforms at BusinessUp and built complex asynchronous applications, I focus on crafting scalable, secure, and user-centric software.
 
 
