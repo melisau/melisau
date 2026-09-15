@@ -7,7 +7,7 @@
 
 <br/>
 
-<div align="center">
+<div >
   
 # Hi there, I'm Melisa Uyar 👋
 **Computer Engineer & Full-Stack Developer**
@@ -30,6 +30,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 * **E-Commerce:** Shopify, Liquid, Custom Theme Development, Metafields *(Dawn, Eurus, Wonder, Unseen, Broadcast, Sleek)*
 * **Database & BaaS:** PostgreSQL, MongoDB, Supabase, Firebase, Beanie ODM, Row Level Security (RLS)
 * **Tools & Deployment:** Git, GitHub, VS Code, Postman, Swagger/OpenAPI, Figma, Railway, Vercel
+  
 <div align="center">
 
 
@@ -61,6 +62,7 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 | **Full-Stack Blog Platform** | FastAPI, MongoDB, React, Beanie | Async RESTful blogging platform featuring JWT authentication, dynamic follower feeds, categories, and notifications. |
 
 ---
+<div >
 
 ### 💼 Professional Experience
 
@@ -85,7 +87,6 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 
 
-<div >
 
 
 
