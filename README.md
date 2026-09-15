@@ -85,8 +85,8 @@ Developed custom Shopify theme components, dynamic sections, and interactive gal
 
 ### 📬 Let's Connect!
 
-![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
+**Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
+**LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
 
 
 
