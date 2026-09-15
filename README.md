@@ -4,7 +4,7 @@
 
 
 
-I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. # Hi 👋, I'm Melisa Uyar
+I turn bright ideas into lovely, useful digital experiences — from playful interfaces to reliable backend systems. 
 ### Full stack developer
 
 Melisa Uyar is a skilled Computer Engineer based in Muğla, Turkey. She earned her degree in Computer Engineering from Manisa Celal Bayar Üniversitesi, establishing a strong foundational knowledge in software development, core engineering principles, and technology systems. Originally born in Pinneberg, Germany, Melisa brings a multicultural perspective to her technical pursuits. Known for her continuous learning mindset, she actively tracks industry trends and connects with the global tech community to collaborate on innovative software solutions.
