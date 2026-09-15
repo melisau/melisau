@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:ff69b4&height=220&section=header&text=Melisa%20Uyar&fontSize=52&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&animation=twinkling" width="100%" alt="Melisa Uyar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:ff69b4&height=220&section=header&text=Melisa%20Uyar&fontSize=48&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&animation=twinkling" width="100%" alt="Melisa Uyar Banner" />
 </div>
 
 <div align="center">
