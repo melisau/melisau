@@ -91,13 +91,6 @@ Developed custom Shopify theme components, dynamic sections, and interactive gal
 
 ---
 
-### 🎵 Vibing While Coding
-
-<div align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-github-stream.vercel.app/api/spotify" alt="Spotify Currently Playing" width="400px" />
-  </a>
-</div>
 
 
 
