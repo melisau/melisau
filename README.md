@@ -53,35 +53,6 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 <br/>
 
-#### 🗣️ Language Skills
-
-
-* 🇹🇷 **Turkish** `Native`
-* 🇬🇧 **English** `Professional Working Proficiency`
-* 🇩🇪 **German** `Elementary (Targeting B1)`
-* 
-
-
-### 🎵 Vibing While Coding
-
-
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-stream.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-  </a>
-</div>
-
-
-
-
-### 📬 Let's Connect!
-
-![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
-
-
-
-<div >
 
 
 
@@ -106,6 +77,23 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ---
 
+#### 🗣️ Language Skills
+
+
+* 🇹🇷 **Turkish** `Native`
+* 🇬🇧 **English** `Professional Working Proficiency`
+* 🇩🇪 **German** `Elementary (Targeting B1)`
+
+
+
+### 📬 Let's Connect!
+
+![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **Email:** [melisauyar5225@gmail.com](mailto:melisauyar5225@gmail.com)  
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn:** [Melisa Uyar](https://linkedin.com/in/melisauyar)
+
+
+
+<div >
 
 
 
