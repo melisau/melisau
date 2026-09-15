@@ -39,7 +39,18 @@ I’m a Computer Engineering graduate from Manisa Celal Bayar University (GPA: 3
 
 ---
 
-### 🎓 Education & Languages
 
-* **B.S. in Computer Engineering** — Manisa Celal Bayar University *(English-Taught, GPA: 3.34/4.00)*
-* **Languages:** Turkish (Native), English (Intermediate / Professional Working), German (Elementary, progressing toward B1)
+#### 🎓 Education
+![](https://img.shields.io/badge/Degree-B.S._in_Computer_Engineering-blue?style=for-the-badge&logo=academic-cap)
+![](https://img.shields.io/badge/University-Manisa_Celal_Bayar_University-003366?style=for-the-badge)
+![](https://img.shields.io/badge/Language-English--Taught-informational?style=for-the-badge)
+![](https://img.shields.io/badge/GPA-3.34_%2F_4.00-success?style=for-the-badge&logo=google-academic)
+
+<br/>
+
+#### 🌐 Languages
+| Language | Proficiency | Level Indicator |
+| :--- | :--- | :--- |
+| 🇹🇷 **Turkish** | Native | `██████████` 100% |
+| 🇬🇧 **English** | Professional Working | `████████░░` 80% |
+| 🇩🇪 **German** | Progressing toward B1 | `████░░░░░░` 40% *(Elementary)* |
